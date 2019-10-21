@@ -1,0 +1,26 @@
+body {
+  background-color: #FF9C4F;
+  font-family: "Courier New";
+  text-align: center;
+}
+h1 {
+  color: indigo;
+  font-size: 18pt;
+  font-family: "Georgia";
+}
+p {
+  color: #800667;
+  background-color: yellow;
+  font-family: monospace;
+  display:block;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+a:hover{
+  color: green;
+  background-color: yellow;
+}
